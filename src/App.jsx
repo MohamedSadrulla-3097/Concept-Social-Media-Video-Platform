@@ -1,8 +1,8 @@
 import React from 'react'
 import './index.css'
-import Navbar from './components/navbar.jsx'
-import Sidebar from './components/Sidebar.jsx'
-import Video from './components/Video.jsx'
+import Navbar from './components/Navbar'
+import Sidebar from './components/Sidebar'
+import Video from './components/Video'
 
 const App = () => {
   return (
